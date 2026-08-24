@@ -1,6 +1,4 @@
-<h2 data-importer="text" align="center">Hello world! My name is Camila! <br>Welcome to my repository!</h2>
-
-<banner src="https://github.com/user-attachments/assets/e98e1d08-4ef6-4723-ab48-47efd5a16993" controls width="600"></banner>              
+<h2 data-importer="text" align="center">Hello world! My name is Camila! <br>Welcome to my repository!</h2>           
 
 ###
 
