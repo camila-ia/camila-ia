@@ -2,19 +2,17 @@
 
 
 
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:8E3A70,45:D96AA8,75:F2A65A,100:F6C453&text=&fontSize=1&animation=fadeIn&section=header" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=58&duration=2800&pause=900&color=F6C453&center=true&vCenter=true&width=1000&height=100&lines=Hi%2C+I+am+Camila." alt="Hi, I am Camila."/>
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=68&duration=3500&pause=1200&color=F6C453&center=true&vCenter=true&width=1200&height=120&lines=Hi%2C+I+am+Camila." alt="Hi, I am Camila."/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=65&lines=Software+Developer." alt="Software Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=32&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&height=70&lines=Software+Developer." alt="Software Developer"/>
 
 <br><br>
 
@@ -24,13 +22,11 @@
 
 ## About Me
 
-I am a **professional in formation in the Information Technology field**.
+I am a **professional in training in the Information Technology field**, with an interest in Software Development and a strong ambition for Front-End Development.
 
-My professional journey is focused on building a solid foundation in programming and continuously developing my technical knowledge.
+My professional journey is becoming more established through the projects developed throughout my training, where I put my knowledge into practice and gain new experiences.
 
-I am always looking for new learning opportunities to expand my skills, gain experience and strengthen my foundation in technology.
-
-My goal is to grow as a **Software Developer**, expanding my technical skills and creating increasingly complete and creative projects, always looking for new ways to learn, build and evolve.
+My goal is to grow as a **Software Developer**. I love seeking knowledge through curiosity and enthusiasm, and in this natural and fluid way, I enrich my technical knowledge and build my professional journey.
 
 ---
 
@@ -40,9 +36,15 @@ My goal is to grow as a **Software Developer**, expanding my technical skills an
 
 ---
 
+## Web Technologies
+
+<img src="https://skillicons.dev/icons?i=html,css" height="55"/>
+
+---
+
 ## Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,trello,aws" height="55"/>
+<img src="https://skillicons.dev/icons?i=vscode,trello" height="55"/>
 
 ---
 
@@ -60,15 +62,15 @@ My goal is to grow as a **Software Developer**, expanding my technical skills an
 
 <div align="left">
 
-<a href="SEU_LINKEDIN_AQUI">
+<a href="https://www.linkedin.com/in/camila-fernandes-nogueira-da-silva-97044336b/">
 <img src="https://img.shields.io/badge/LinkedIn-4A1638?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 
-<a href="SEU_INSTAGRAM_AQUI">
+<a href="https://www.instagram.com/miila.kitty/">
 <img src="https://img.shields.io/badge/Instagram-8E3A70?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
 </a>
 
-<a href="mailto:SEU_EMAIL_AQUI">
+<a href="mailto:nogmila007@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D96AA8?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
