@@ -1,1 +1,1 @@
-![Header](./your-header-image-name.png)
+![Uploading githubbannerki.png…]()
