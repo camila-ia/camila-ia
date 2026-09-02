@@ -55,15 +55,15 @@
 <div align="left">
 
 <a href="https://www.linkedin.com/in/camila-fernandes-nogueira-da-silva-97044336b/">
-<img src="https://img.shields.io/badge/LinkedIn-4A1638?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/miila.kitty/">
-<img src="https://img.shields.io/badge/Instagram-8E3A70?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:nogmila007@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D96AA8?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
