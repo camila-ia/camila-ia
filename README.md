@@ -41,7 +41,6 @@ My goal is to grow as a Software Developer. I love seeking knowledge through cur
 ## Tools
 
 <img src="https://skillicons.dev/icons?i=vscode,github" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" height="55"/>
 
 ---
 
