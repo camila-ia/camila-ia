@@ -32,15 +32,15 @@
 
 ---
 
-## Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,github" height="55"/>
-
----
-
 ## I Speak
 
 • Intermediate English <img src="https://flagcdn.com/20x15/us.png" height="16"/>
+
+---
+
+## Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,github" height="55"/>
 
 ---
 
