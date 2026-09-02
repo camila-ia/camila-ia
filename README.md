@@ -23,11 +23,11 @@
 
 ## About Me
 
-I am a **professional in training in the Information Technology field**, with an interest in Software Development and a strong ambition for Front-End Development.
+I am a professional in training in the area of Information Technology, with an interest in Software Development and a great ambition for Front-End Development.
 
-My professional journey is becoming more established through the projects developed throughout my training, in which I put my knowledge into practice and gain new experiences.
+My professional journey has been consolidating itself through the projects developed throughout my training, in which I have been putting my knowledge into practice and acquiring new experiences.
 
-My goal is to grow as a **Software Developer**. I love seeking knowledge through curiosity and enthusiasm, and in this natural and fluid way, I enrich my technical knowledge and build my professional journey.
+My goal is to grow as a Software Developer. I love seeking knowledge through curiosity and enthusiasm, thus, with this naturalness and fluidity, I enrich my technical knowledge and build my professional journey.
 
 ---
 
