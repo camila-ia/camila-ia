@@ -38,6 +38,12 @@
 
 ---
 
+## I Speak
+
+• <img src="https://flagcdn.com/20x15/us.png" height="16"/> Intermediate English
+
+---
+
 ## Certifications & Technology
 
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-4A1638?style=for-the-badge&logoColor=FFFFFF"/>
