@@ -1,8 +1,3 @@
-<img width="1700" height="460" alt="githubbannerki" src="https://github.com/user-attachments/assets/41a02986-4b97-4cb8-becd-8a9c97217418" />
-
-
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:8E3A70,45:D96AA8,75:F2A65A,100:F6C453&text=&fontSize=1&animation=fadeIn&section=header" width="100%"/>
