@@ -2,6 +2,7 @@
 
 
 
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:8E3A70,45:D96AA8,75:F2A65A,100:F6C453&text=&fontSize=1&animation=fadeIn&section=header" width="100%"/>
@@ -24,7 +25,7 @@
 
 I am a **professional in training in the Information Technology field**, with an interest in Software Development and a strong ambition for Front-End Development.
 
-My professional journey is becoming more established through the projects developed throughout my training, where I put my knowledge into practice and gain new experiences.
+My professional journey is becoming more established through the projects developed throughout my training, in which I put my knowledge into practice and gain new experiences.
 
 My goal is to grow as a **Software Developer**. I love seeking knowledge through curiosity and enthusiasm, and in this natural and fluid way, I enrich my technical knowledge and build my professional journey.
 
