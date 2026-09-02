@@ -40,7 +40,7 @@
 
 ## I Speak
 
-• <img src="https://flagcdn.com/20x15/us.png" height="16"/> Intermediate English
+• Intermediate English <img src="https://flagcdn.com/20x15/us.png" height="16"/>
 
 ---
 
