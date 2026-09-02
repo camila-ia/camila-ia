@@ -28,13 +28,13 @@
 
 ## I Program With
 
-<img src="https://skillicons.dev/icons?i=python,css,html,c" height="55"/>
+<img src="https://skillicons.dev/icons?i=python, css, html, c" height="55"/>
 
 ---
 
 ## Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,github" height="55"/>
+<img src="https://skillicons.dev/icons?i=vscode, github" height="55"/>
 
 ---
 
