@@ -28,7 +28,7 @@ My goal is to grow as a Software Developer. I love seeking knowledge through cur
 
 ## Languages
 
-<img src="https://skillicons.dev/icons?i=c,python" height="55"/>
+<img src="https://skillicons.dev/icons?i=python,css,html,c" height="55"/>
 
 ---
 
@@ -47,10 +47,6 @@ My goal is to grow as a Software Developer. I love seeking knowledge through cur
 ## Certifications & Technology
 
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-4A1638?style=for-the-badge&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/Cloud%20Computing-8E3A70?style=for-the-badge&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/Amazon%20Web%20Services%20%7C%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 
 ---
 
