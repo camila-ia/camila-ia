@@ -26,15 +26,9 @@ My goal is to grow as a Software Developer. I love seeking knowledge through cur
 
 ---
 
-## Languages
+## I Program With
 
 <img src="https://skillicons.dev/icons?i=python,css,html,c" height="55"/>
-
----
-
-## Web Technologies
-
-<img src="https://skillicons.dev/icons?i=html,css" height="55"/>
 
 ---
 
