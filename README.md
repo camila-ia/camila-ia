@@ -46,7 +46,6 @@
 
 ## Certifications & Technology
 
-<a href="./certificado-ia.pdf">
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-FFD700?style=for-the-badge&logoColor=FFFFFF"/>
 
 ---
